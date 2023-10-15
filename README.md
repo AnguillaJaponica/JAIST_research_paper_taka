@@ -1,0 +1,2 @@
+# JAIST_research_paper_taka
+JAIST課題研究における文献リストの格納場所
