@@ -212,7 +212,7 @@
 辞書構築,ソーシャルメディア,Automatically building a corpus for sentiment analysis on Indonesian tweets,2014,https://aclanthology.org/Y14-1024.pdf
 辞書構築,商品レビュー,Associating targets with SentiUnits: a step forward in sentiment analysis of Urdu text,2014,https://link.springer.com/article/10.1007/s10462-012-9322-6
 辞書構築,その他,Teaching senti-lexicon for automated sentiment polarity definition in teaching evaluation,2014,https://ieeexplore.ieee.org/abstract/document/6964669/
-辞書構築,その他,Building the Korean Sentiment Lexicon for Finance (KOSELF),0,http://www.e-kjfs.org/journal/view.php?doi=10.26845/KJFS.2021.04.50.2.135
+辞書構築,その他,Building the Korean Sentiment Lexicon for Finance (KOSELF),2021,http://www.e-kjfs.org/journal/view.php?doi=10.26845/KJFS.2021.04.50.2.135
 辞書構築,映画レビュー,Learning domain-specific sentiment lexicon with supervised sentiment-aware lda,2014,https://ebooks.iospress.nl/doi/10.3233/978-1-61499-419-0-927
 辞書構築,政治演説,Learning domain-specific sentiment lexicon with supervised sentiment-aware lda,2014,https://ebooks.iospress.nl/doi/10.3233/978-1-61499-419-0-927
 辞書構築,ソーシャルメディア,Two-step model for sentiment lexicon extraction from twitter streams,2014,https://aclanthology.org/W14-2612.pdf
@@ -224,18 +224,18 @@
 辞書構築,ソーシャルメディア,A hybrid method of domain lexicon construction for opinion targets extraction using syntax and semantics,2014,https://link.springer.com/chapter/10.1007/978-3-662-45558-6_10
 辞書構築,ソーシャルメディア,NRC-Canada: Building the state-of-the-art in sentiment analysis of tweets,2013,https://arxiv.org/abs/1308.6242
 辞書構築,ソーシャルメディア,Open issues in the sentiment analysis of Arabic social media: A case study,2013,https://ieeexplore.ieee.org/abstract/document/6544421/
-辞書構築,商品レビュー,Hierarchy Database Lexicon Solution for Sentiments Challenge,0,https://www.researchgate.net/profile/Doaa-Mohey-El-Din/publication/314950115_Hierarchy_Database_Lexicon_Solution_for_Sentiments_Challenge/links/58c7a63b458515478dcbac1a/Hierarchy-Database-Lexicon-Solution-for-Sentiments-Challenge.pdf
-辞書構築,商品レビュー,Learning Bilingual Sentiment Lexicon for Online,0,https://www.researchgate.net/profile/Chia-Hsuan-Chang/publication/349557220_Learning_Bilingual_Sentiment_Lexicon_for_Online_Reviews/links/604c1195458515e529a3f975/Learning-Bilingual-Sentiment-Lexicon-for-Online-Reviews.pdf
-辞書構築,ソーシャルメディア,A Method for Constructing Large-scale Domain-specific Lexicon Based on Deep Learning,0,http://166.62.7.99/conferences/AEASR/ICMMCT%202019/ICMMCT018.pdf
-辞書構築,ソーシャルメディア,Emojis in Lexicon-Based Sentiment Analysis: Creating Emoji Sentiment Lexicons from Unlabeled Corpora.,0,http://ceur-ws.org/Vol-2993/paper-26.pdf
-辞書構築,その他,The Construction of Sentiment Lexicon in Educational Field Based on Word2vec,0,https://www.tresystems.com/proceedings/documents/2017_jacksonville_volume1.pdf#page=136
-辞書構築,映画レビュー,A construction and self-learning method for intelligent domain sentiment lexicon.,0,https://scdm-shu.github.io/papers/2020-IJITM-Wu.pdf
-辞書構築,その他,Extending general sentiment lexicon to specific domains in (semi-) automatic manner,0,https://repositorio-aberto.up.pt/handle/10216/141370
-辞書構築,ニュース,Construction and application of sentiment lexicons in Finance,0,https://www.igi-global.com/article/construction-and-application-of-sentiment-lexicons-in-finance/196247
-辞書構築,商品レビュー,A context-induced bootstrapping approach for constructing contextual-dependent Thai sentiment lexicon,0,http://saki.siit.tu.ac.th/snlp2013/uploads_final/80__0c1d71ef1609123d7bd721e9eb4a663e/A%20Context-induced%20Bootstrapping%20Approach%20for%20Constructing%20Contex-tual-Dependent%20Thai%20Sentiment%20Lexicon_SHORT_tun2.pdf
-辞書構築,商品レビュー,Refinement of Russian sentiment lexicons using RuThes thesaurus,0,http://ceur-ws.org/Vol-1297/061-65_paper-11.pdf
-辞書構築,ソーシャルメディア,"Automatic, adaptive, and applicative sentiment analysis",0,https://tel.archives-ouvertes.fr/tel-00717329/
-辞書構築,ソーシャルメディア,A web sentiment analysis method on fuzzy clustering for mobile social media users,0,https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-016-0626-0
+辞書構築,商品レビュー,Hierarchy Database Lexicon Solution for Sentiments Challenge,2017,https://www.researchgate.net/profile/Doaa-Mohey-El-Din/publication/314950115_Hierarchy_Database_Lexicon_Solution_for_Sentiments_Challenge/links/58c7a63b458515478dcbac1a/Hierarchy-Database-Lexicon-Solution-for-Sentiments-Challenge.pdf
+辞書構築,商品レビュー,Learning Bilingual Sentiment Lexicon for Online,2021,https://www.researchgate.net/profile/Chia-Hsuan-Chang/publication/349557220_Learning_Bilingual_Sentiment_Lexicon_for_Online_Reviews/links/604c1195458515e529a3f975/Learning-Bilingual-Sentiment-Lexicon-for-Online-Reviews.pdf
+辞書構築,ソーシャルメディア,A Method for Constructing Large-scale Domain-specific Lexicon Based on Deep Learning,2019,http://166.62.7.99/conferences/AEASR/ICMMCT%202019/ICMMCT018.pdf
+辞書構築,ソーシャルメディア,Emojis in Lexicon-Based Sentiment Analysis: Creating Emoji Sentiment Lexicons from Unlabeled Corpora.,2021,http://ceur-ws.org/Vol-2993/paper-26.pdf
+辞書構築,その他,The Construction of Sentiment Lexicon in Educational Field Based on Word2vec,2017,https://www.tresystems.com/proceedings/documents/2017_jacksonville_volume1.pdf#page=136
+辞書構築,映画レビュー,A construction and self-learning method for intelligent domain sentiment lexicon.,2020,https://scdm-shu.github.io/papers/2020-IJITM-Wu.pdf
+辞書構築,その他,Extending general sentiment lexicon to specific domains in (semi-) automatic manner,2022,https://repositorio-aberto.up.pt/handle/10216/141370
+辞書構築,ニュース,Construction and application of sentiment lexicons in Finance,2018,https://www.igi-global.com/article/construction-and-application-of-sentiment-lexicons-in-finance/196247
+辞書構築,商品レビュー,A context-induced bootstrapping approach for constructing contextual-dependent Thai sentiment lexicon,2013,http://saki.siit.tu.ac.th/snlp2013/uploads_final/80__0c1d71ef1609123d7bd721e9eb4a663e/A%20Context-induced%20Bootstrapping%20Approach%20for%20Constructing%20Contex-tual-Dependent%20Thai%20Sentiment%20Lexicon_SHORT_tun2.pdf
+辞書構築,商品レビュー,Refinement of Russian sentiment lexicons using RuThes thesaurus,2014,http://ceur-ws.org/Vol-1297/061-65_paper-11.pdf
+辞書構築,ソーシャルメディア,"Automatic, adaptive, and applicative sentiment analysis",2012,https://tel.archives-ouvertes.fr/tel-00717329/
+辞書構築,ソーシャルメディア,A web sentiment analysis method on fuzzy clustering for mobile social media users,2016,https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-016-0626-0
 辞書構築,ソーシャルメディア,Towards building large-scale distributed systems for twitter sentiment analysis,2012,https://dl.acm.org/doi/abs/10.1145/2245276.2245364
 辞書構築,商品レビュー,Sentiment lexicons for health-related opinion mining,2012,https://dl.acm.org/doi/abs/10.1145/2110363.2110390
 辞書構築,ニュース,Sentiment analysis of stock market news with semi-supervised learning,2012,https://ieeexplore.ieee.org/abstract/document/6211813/
@@ -288,14 +288,14 @@
 辞書構築,映画レビュー,DomEx: Extraction of Sentiment Lexicons for Domains and Meta-Domains,2012,https://aclanthology.org/C12-3010.pdf
 辞書構築,商品レビュー,An unsupervised data-driven cross-lingual method for building high precision sentiment lexicons,2013,https://ieeexplore.ieee.org/abstract/document/6693515/
 辞書構築,商品レビュー,SUBJECTIVITY LEXICON CONSTRUCTION FOR MINING DRUG,2013,https://www.researchgate.net/profile/Dr-Muhammad-Asghar/publication/283318837_Subjectivity_lexicon_construction_for_mining_drug_reviews/links/5632ea0f08ae242468da0500/Subjectivity-lexicon-construction-for-mining-drug-reviews.pdf
-辞書構築,その他,Arsel: A large scale arabic sentiment and emotion lexicon,0,http://lrec-conf.org/workshops/lrec2018/W30/pdf/book_of_proceedings.pdf#page=36
+辞書構築,その他,Arsel: A large scale arabic sentiment and emotion lexicon,2018,http://lrec-conf.org/workshops/lrec2018/W30/pdf/book_of_proceedings.pdf#page=36
 辞書構築,商品レビュー,Learning domain-specific sentiment lexicons for predicting product sales,2011,https://ieeexplore.ieee.org/abstract/document/6104609/
 辞書構築,商品レビュー,Cross-domain co-extraction of sentiment and topic lexicons,2012,https://aclanthology.org/P12-1043.pdf
 辞書構築,商品レビュー,Building domain-oriented sentiment lexicon by improved information bottleneck,2009,https://dl.acm.org/doi/abs/10.1145/1645953.1646221
 辞書適応,ソーシャルメディア,Adapting sentiment lexicons using contextual semantics for sentiment analysis of twitter,2014,https://link.springer.com/chapter/10.1007/978-3-319-11955-7_5
 辞書適応,商品レビュー,Sentiment domain adaptation with multi-level contextual sentiment knowledge,2016,https://dl.acm.org/doi/abs/10.1145/2983323.2983851
 辞書適応,映画レビュー,Adaptation and use of subjectivity lexicons for domain dependent sentiment classification,2012,https://ieeexplore.ieee.org/abstract/document/6406503/
-辞書適応,その他,A multilingual bpe embedding space for universal sentiment lexicon induction,0,https://epub.ub.uni-muenchen.de/72191/
+辞書適応,その他,A multilingual bpe embedding space for universal sentiment lexicon induction,2019,https://epub.ub.uni-muenchen.de/72191/
 辞書適応,映画レビュー,Analysing domain suitability of a sentiment lexicon by identifying distributionally bipolar words,2015,https://aclanthology.org/W15-2911.pdf
 辞書適応,ソーシャルメディア,Analysing domain suitability of a sentiment lexicon by identifying distributionally bipolar words,2015,https://aclanthology.org/W15-2911.pdf
 辞書適応,商品レビュー,A Spanish semantic orientation approach to domain adaptation for polarity classification,2015,https://www.sciencedirect.com/science/article/pii/S0306457314000910
@@ -329,7 +329,7 @@
 辞書構築,商品レビュー,Efficient extraction of domain specific sentiment lexicon with active learning,2015,https://www.sciencedirect.com/science/article/pii/S0167865515000227
 辞書構築,ソーシャルメディア,Fuzzy subjective sentiment phrases: A context sensitive and self-maintaining sentiment lexicon,2014,https://ieeexplore.ieee.org/abstract/document/6927566/
 辞書構築,ソーシャルメディア,SentBuk: Sentiment analysis for e-learning environments,2012,https://ieeexplore.ieee.org/abstract/document/6403193/
-辞書構築,ソーシャルメディア,Contextual lexicon-based sentiment analysis for social media.,0,https://rgu-repository.worktribe.com/output/248843
+辞書構築,ソーシャルメディア,Contextual lexicon-based sentiment analysis for social media.,2016,https://rgu-repository.worktribe.com/output/248843
 辞書適応,映画レビュー,Enhanced cross-domain sentiment classification utilizing a multi-source transfer learning approach,2019,https://link.springer.com/article/10.1007/s00500-018-3187-9
 辞書適応,商品レビュー,Enhanced cross-domain sentiment classification utilizing a multi-source transfer learning approach,2019,https://link.springer.com/article/10.1007/s00500-018-3187-9
 辞書適応,映画レビュー,Adapting sentiment analysis system from english to slovak,2017,https://ieeexplore.ieee.org/abstract/document/8285313/
@@ -358,7 +358,7 @@
 辞書構築,商品レビュー,Semisupervised sentiment analysis method for online text reviews,2021,https://journals.sagepub.com/doi/abs/10.1177/0165551520910032
 辞書構築,ソーシャルメディア,Multi-channel lexicon integrated CNN-BiLSTM models for sentiment analysis,2017,https://aclanthology.org/O17-1023.pdf
 辞書構築,ソーシャルメディア,A supervised approach for sentiment analysis using skipgrams,2014,https://aclanthology.org/W14-6904.pdf
-辞書適応,商品レビュー,Sentiment Analysis based on Specific Dictionary and Sentence Analysis,0,https://www.atlantis-press.com/proceedings/emehss-17/25874774
+辞書適応,商品レビュー,Sentiment Analysis based on Specific Dictionary and Sentence Analysis,2017,https://www.atlantis-press.com/proceedings/emehss-17/25874774
 辞書構築,ソーシャルメディア,Senticircles for contextual and conceptual semantic sentiment analysis of twitter,2014,https://link.springer.com/chapter/10.1007/978-3-319-07443-6_7
 辞書構築,商品レビュー,Generating contextualized sentiment lexica based on latent topics and user ratings,2013,https://dl.acm.org/doi/abs/10.1145/2481492.2481506
 辞書構築,商品レビュー,Building domain specific sentiment lexicons combining information from many sentiment lexicons and a domain specific corpus,2015,https://link.springer.com/chapter/10.1007/978-3-319-19578-0_17
@@ -377,11 +377,11 @@
 辞書構築,商品レビュー,A context-dependent sentiment analysis of online product reviews based on dependency relationships,2014,https://core.ac.uk/download/pdf/301363374.pdf
 辞書構築,商品レビュー,Development of Domain-Specific Lexicon for Aspect-Based Sentiment Analysis,2020,https://ieeexplore.ieee.org/abstract/document/9429059/
 辞書構築,ソーシャルメディア,Arabic Lexicon Learning to Analyze Sentiment in Microblogs,2019,https://pdfs.semanticscholar.org/1feb/bf469c5b3c04d079137e0ec2ff2e4d85b653.pdf
-辞書構築,ソーシャルメディア,AUTOMATIC GENERATION OF WORD-EMOTION LEXICON FOR MULTIPLE SENTIMENT POLARITIES ON SOCIAL MEDIA TEXTS,0,https://www.researchgate.net/profile/Liza-Wikarsa/publication/332870643_Automatic_generation_of_word-emotion_lexicon_for_multiple_sentiment_polarities_on_social_media_texts/links/5d1f4995299bf1547c99f2d5/Automatic-generation-of-word-emotion-lexicon-for-multiple-sentiment-polarities-on-social-media-texts.pdf
+辞書構築,ソーシャルメディア,AUTOMATIC GENERATION OF WORD-EMOTION LEXICON FOR MULTIPLE SENTIMENT POLARITIES ON SOCIAL MEDIA TEXTS,2018,https://www.researchgate.net/profile/Liza-Wikarsa/publication/332870643_Automatic_generation_of_word-emotion_lexicon_for_multiple_sentiment_polarities_on_social_media_texts/links/5d1f4995299bf1547c99f2d5/Automatic-generation-of-word-emotion-lexicon-for-multiple-sentiment-polarities-on-social-media-texts.pdf
 辞書構築,ニュース,Batframe: An unsupervised approach for domain-sensitive affect detection,2017,https://link.springer.com/chapter/10.1007/978-3-319-77116-8_2
 辞書構築,商品レビュー,Creating domain-specific semantic lexicons for aspect-based sentiment analysis,2015,https://ieeexplore.ieee.org/abstract/document/7370083/
 辞書適応,その他,Lexicon-based sentiment analysis of web discussion posts using SentiWordNet,2019,https://www.ajol.info/index.php/jcsia/article/view/193176
-辞書構築,その他,Extending the Loughran and McDonald Financial Sentiment Words List from 10-K Corporate Fillings using Social Media Texts,0,http://lrec-conf.org/workshops/lrec2018/W13/pdf/book_of_proceedings.pdf#page=22
+辞書構築,その他,Extending the Loughran and McDonald Financial Sentiment Words List from 10-K Corporate Fillings using Social Media Texts,2018,http://lrec-conf.org/workshops/lrec2018/W13/pdf/book_of_proceedings.pdf#page=22
 辞書構築,商品レビュー,SentiProdBR: Building Domain-Specific Sentiment Lexicons for the Portuguese Language,2021,https://sol.sbc.org.br/index.php/sbbd/article/view/17897
 辞書構築,映画レビュー,Prediction of Box Office for Bollywood Movies Using State-of-the-Art SentiDraw Lexicon for Twitter Analysis,2021,http://www.indianjournalofmarketing.com/index.php/ijom/article/view/161644
 辞書構築,ソーシャルメディア,A comprehensive study of domain-specific emoji meanings in sentiment classification,2022,https://link.springer.com/article/10.1007/s10287-021-00407-7
@@ -393,7 +393,7 @@
 辞書構築,商品レビュー,Renew: A semi-supervised framework for generating domain-specific lexicons and sentiment analysis,2014,https://aclanthology.org/P14-1051.pdf
 辞書構築,ソーシャルメディア,Social networks' Facebook'statutes updates mining for sentiment classification,2013,https://ieeexplore.ieee.org/abstract/document/6693432/
 辞書構築,ソーシャルメディア,Learning stock market sentiment lexicon and sentiment-oriented word vector from stocktwits,2017,https://aclanthology.org/K17-1031/
-辞書構築,ソーシャルメディア,Sentiment Classification: Facebook'Statuses Mining in the “Arabic Spring” Era,0,https://www.igi-global.com/chapter/sentiment-classification/173406
+辞書構築,ソーシャルメディア,Sentiment Classification: Facebook'Statuses Mining in the “Arabic Spring” Era,2017,https://www.igi-global.com/chapter/sentiment-classification/173406
 辞書構築,商品レビュー,Cross-domain contextualisation of sentiment lexicons,2010,https://eprints.weblyzard.com/19/
 辞書構築,ニュース,Cross-lingual sentiment lexicon learning with bilingual word graph label propagation,2015,https://direct.mit.edu/coli/article-abstract/41/1/21/1499
 辞書構築,ソーシャルメディア,Lexicon knowledge extraction with sentiment polarity computation,2016,https://ieeexplore.ieee.org/abstract/document/7836773/
@@ -411,7 +411,7 @@
 辞書構築,商品レビュー,Improving sentiment domain adaptation for Arabic using an unsupervised self-labeling framework,2023,https://www.sciencedirect.com/science/article/pii/S0306457323000754
 辞書構築,その他,Automatic expandable large-scale sentiment lexicon of Modern Standard Arabic and Colloquial,2015,https://ieeexplore.ieee.org/abstract/document/7422285/
 辞書構築,ソーシャルメディア,IIT-TUDA: System for sentiment analysis in Indian languages using lexical acquisition,2015,https://link.springer.com/chapter/10.1007/978-3-319-26832-3_65
-辞書構築,その他,Lexicon induction for interpretable text classification.,0,https://rgu-repository.worktribe.com/output/249050/lexicon-induction-for-interpretable-text-classification
+辞書構築,その他,Lexicon induction for interpretable text classification.,2017,https://rgu-repository.worktribe.com/output/249050/lexicon-induction-for-interpretable-text-classification
 辞書構築,ソーシャルメディア,Sentiment lexicon interpolation and polarity estimation of objective and out-of-vocabulary words to improve sentiment classification on microblogging,2014,https://aclanthology.org/Y14-1026.pdf
 辞書構築,その他,Learning sentiment composition from sentiment lexicons,2018,https://aclanthology.org/C18-1189/
 辞書構築,映画レビュー,Reputation analysis with a ranked sentiment-lexicon,2014,https://dl.acm.org/doi/abs/10.1145/2600428.2609546
